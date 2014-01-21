@@ -13,10 +13,8 @@ Love.play
 ## 自分で定義した module のChef recipe への include
 ::Chef::Recipe.send(:include, Peta)
 
-
 ## Peta のモジュールが使える
 jini
-
 
 
 # ## recipe 内では問題なく attribute を参照できる
