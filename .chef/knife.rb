@@ -1,6 +1,6 @@
 cookbook_path    ["cookbooks", "site-cookbooks"]
 node_path        "nodes"
-role_path        "roles"
+role_path        "/Users/vimtaku/vm/vimtaku/site-cookbooks/first/roles"
 environment_path "environments"
 data_bag_path    "data_bags"
 

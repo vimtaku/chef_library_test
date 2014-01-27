@@ -7,8 +7,13 @@
 # All rights reserved - Do Not Redistribute
 #
 
-jini
+#jini
 p "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+
+p "Chef second recipe"
+print(self.to_s)
+print(self.class.to_s)
+return
 
 extend Marui
 
